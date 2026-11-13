@@ -1,0 +1,6 @@
+{
+  "name": "Sports Mania! Year 3 English Championship",
+  "description": "An interactive educational sports game for Year 3 English (Module 3: Right Now) aligned with EDUP6023 and Get Smart Plus 3, featuring 5 stages, differentiated learning tiers, and authentic textbook stories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
